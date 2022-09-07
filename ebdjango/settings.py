@@ -25,7 +25,7 @@ SECRET_KEY = '1+grx45691!^pi=0*%=h-b4w@d10pdrlf(oeavm&3oz5r+fz(p'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['Ebdjangoserverpy38-env.eba-v2efpyeb.us-east-2.elasticbeanstalk.com']
 
 
 # Application definition
